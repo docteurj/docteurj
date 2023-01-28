@@ -1,4 +1,4 @@
-Hello there 👋
+## Hello there 👋
 
 I'm Jonathan, and I'm currently studying computer science at the University of Florida!
 
