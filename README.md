@@ -2,7 +2,7 @@
 
 I'm Jonathan, and I'm currently studying computer science at the University of Florida!
 
-Learn more about me at [linkedin.com/in/docteurj](https://www.linkedin.com/in/docteurj/) and [docteurj.github.io](https://docteurj.github.io). Feel free to reach me directly at jonathandocteur@gmail.com!
+Learn more about me at [linkedin.com/in/docteurj](https://www.linkedin.com/in/docteurj/). Feel free to reach me directly at jonathandocteur@gmail.com!
 
 
 <!--
