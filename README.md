@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Jonathan, and I'm currently studying computer science at the University of Florida!
+My name is Jonathan, and I'm currently studying computer science at the University of Florida!
 
 Learn more about me at [linkedin.com/in/docteurj](https://www.linkedin.com/in/docteurj/). Feel free to reach me directly at jonathandocteur@gmail.com!
 
